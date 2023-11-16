@@ -10,6 +10,8 @@ Microsoft has published a list of [keyboard shortcuts for Teams](https://support
 ## Macropad Layout
 I selected the following shorcuts for v1 of my 12-key macropad:
 
+![MS Teams Macropad v1 layout!](/legends/macropad4teams.png "MS Teams Macropad v1 layout")
+
 ### Teams keys 
 |Function|Shortcut|
 |---|---|
