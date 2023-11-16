@@ -7,6 +7,13 @@ This repository contains the files I used to create a macropad designed to make 
 ## Teams Shortcuts
 Microsoft has published a list of [keyboard shortcuts for Teams](https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-microsoft-teams-2e8e2a70-e8d8-4a19-949b-4c36dd5292d2).
 
+## Hardware
+### Macropad device
+For v1 of this macropad I'm using a relatively inexpensive [12-key, 2-knob macropad sourced from AliExpress](https://www.aliexpress.com/item/1005005992174580.html).
+
+### Keycaps
+Initially I applied labels printed using a Dymo label maker to the stock black keycaps for ease of trial-and-error experimentation. These were eventually replaced by [relegendable keycaps sourced from AliExpress](https://www.aliexpress.com/item/1005003458085668.html).
+
 ## Macropad Layout
 I selected the following shorcuts for v1:
 
@@ -46,9 +53,3 @@ I selected the following shorcuts for v1:
 |2|Rotate right|Redo|Ctrl + Y|
 |2|Push|Clipboard history|Win + V|
 
-## Hardware
-### Macropad device
-For v1 of this macropad I'm using a relatively inexpensive [12-key, 2-knob macropad sourced from AliExpress](https://www.aliexpress.com/item/1005005992174580.html).
-
-### Keycaps
-Initially I applied labels printed using a Dymo label maker to the stock black keycaps for ease of trial-and-error experimentation. These were eventually replaced by [relegendable keycaps sourced from AliExpress](https://www.aliexpress.com/item/1005003458085668.html).
